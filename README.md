@@ -1,2 +1,2 @@
-# Cuda__templlate
+# Cuda__template
 ## only desktop version 
